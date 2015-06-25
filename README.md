@@ -27,7 +27,3 @@ addInstance.php <lbname> <region> <instance>
 ```
 removeInstance.php <lbname> <region> <instance>
 ```
-
-
-[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pfrederiksen/elb-tools/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
